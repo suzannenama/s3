@@ -2,11 +2,12 @@
     "transactions": [
         {
             "transactionType": "PURCHASE",
-            "amount": 5.07
+            "amount": 5.90
         },
+        
         {
             "transactionType": "REFUND",
-            "amount": 25.00
+            "amount": 25.99
         }
     ]
 }
